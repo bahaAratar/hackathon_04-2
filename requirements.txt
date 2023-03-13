@@ -9,4 +9,4 @@ djangorestframework-simplejwt
 dj-config-url
 django-cors-headers
 redis
-celery  
+celery
