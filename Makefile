@@ -10,6 +10,7 @@ superuser:
 
 test:
 	./manage.py test
+	
 startproject:
 	django-admin startproject main .
 
