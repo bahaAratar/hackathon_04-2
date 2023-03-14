@@ -26,9 +26,11 @@ class ProjectCreateAPIView(generics.CreateAPIView):
 class ProjectListAPIView(generics.ListAPIView):
     serializer_class = ProjectSerializer
     permission_classes = (IsAuthenticated,)
-
+    
     def get_queryset(self):
         qs = Project.objects.filter(is_active=True, is_completed=False)
+        client = self.objects.User
+        qs = qs.data['client']
         return qs
 
     def post(self, request, *args, **kwargs):
@@ -44,10 +46,14 @@ class ProjectListAPIView(generics.ListAPIView):
         project.save()
         serializer = self.get_serializer(project)
         return Response(serializer.data, status=status.HTTP_200_OK)
+    
+  
 
 
 
-class CategoryAPIView(viewsets.ModelViewSet):
+class CategoryModelViewset(viewsets.ModelViewSet):
     queryset = Category.objects.all()
     serializer_class = CategorySerializer
     permission_classes = [IsAuthenticatedOrReadOnly]
+
+
