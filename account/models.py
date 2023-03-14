@@ -44,13 +44,13 @@ class CustomUser(AbstractUser):
         ('More than 6 years', 'More than 6 years')
     )
 
-    first_name = models.CharField(max_length=50)
-    last_name = models.CharField(max_length=50)
+    first_name = models.CharField(max_length=50) # all
+    last_name = models.CharField(max_length=50) # all
     experience = models.CharField(max_length=50, choices=EXPERIENCE_CHOICES, null=True, blank=True) # freelancer
     education = models.TextField(null=True, blank=True) # freelancer
-    rating = models.DecimalField(max_digits=4, decimal_places=2, null=True, blank=True)
-    email = models.EmailField(unique=True)
-    password = models.CharField(max_length=100)
+    rating = models.DecimalField(max_digits=4, decimal_places=2, null=True, blank=True) # all
+    email = models.EmailField(unique=True) # all
+    password = models.CharField(max_length=100) # all
     username = None
     activation_code = models.CharField(max_length=50, blank=True)
 
