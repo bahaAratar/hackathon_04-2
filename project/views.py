@@ -1,12 +1,9 @@
-from rest_framework import generics, status
-from rest_framework.response import Response
 from rest_framework import viewsets
 from rest_framework.permissions import IsAuthenticated , IsAuthenticatedOrReadOnly
 from rest_framework import generics
-from .models import Category, SubCategory, Project
+from .models import Category, Project
 from .permissions import IsClient
-from .serializers import CategorySerializer, SubCategorySerializer, ProjectSerializer, ProjectDetailSerializer, \
-    ProjectListSerializer
+from .serializers import CategorySerializer, ProjectSerializer, ProjectDetailSerializer, ProjectListSerializer
 
 
 
@@ -71,14 +68,6 @@ from .serializers import CategorySerializer, SubCategorySerializer, ProjectSeria
 class CategoryListView(generics.ListAPIView):
     queryset = Category.objects.all()
     serializer_class = CategorySerializer
-
-
-class SubCategoryListView(generics.ListAPIView):
-    serializer_class = SubCategorySerializer
-
-    def get_queryset(self):
-        category_id = self.kwargs['category_id']
-        return SubCategory.objects.filter(category_id=category_id)
 
 
 class ProjectCreateView(generics.CreateAPIView):
