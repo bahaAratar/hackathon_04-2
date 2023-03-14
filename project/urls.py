@@ -1,15 +1,12 @@
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
-from .views import CategoryModelViewset, ProjectCreateAPIView, ProjectListAPIView
+from .views import CategoryListView, SubCategoryListView, ProjectCreateView, ProjectDetailView, ProjectListView
 
-router = DefaultRouter()
-router.register('category', CategoryModelViewset)
 
 
 urlpatterns = [
-    path('get/', ProjectListAPIView.as_view()),
-    path('create/', ProjectCreateAPIView.as_view()),
-    path('project', include(router.urls)),
-
+    path('categories/', CategoryListView.as_view(), name='category-list'),
+    path('categories/<int:category_id>/subcategories/', SubCategoryListView.as_view(), name='subcategory-list'),
+    path('projects/', ProjectListView.as_view(), name='proj')
 
 ]

@@ -33,7 +33,6 @@ class UserManager(BaseUserManager):
         return self._create_user(email, password, **extra_fields)
 
 class CustomUser(AbstractUser):
-    freelancer = models.BooleanField(default=False)
     client = models.BooleanField(default=False)
     is_active = models.BooleanField(default=False)
 
@@ -46,12 +45,12 @@ class CustomUser(AbstractUser):
 
     first_name = models.CharField(max_length=50) # all
     last_name = models.CharField(max_length=50) # all
-    experience = models.CharField(max_length=50, choices=EXPERIENCE_CHOICES, null=True, blank=True) # freelancer
-    education = models.TextField(null=True, blank=True) # freelancer
+    experience = models.CharField(max_length=50, choices=EXPERIENCE_CHOICES) # freelancer
+    education = models.TextField() # freelancer
     rating = models.DecimalField(max_digits=4, decimal_places=2, null=True, blank=True) # all
     email = models.EmailField(unique=True) # all
     password = models.CharField(max_length=100) # all
-    username = None
+    # username = None
     activation_code = models.CharField(max_length=50, blank=True)
 
     objects = UserManager()

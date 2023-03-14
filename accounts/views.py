@@ -1,7 +1,8 @@
 from rest_framework.views import APIView
-from account.serializers import *
+from accounts.serializers import *
 from rest_framework.response import Response
 from django.contrib.auth import get_user_model
+from allauth.account.views import LoginView
 
 User = get_user_model()
 
@@ -28,7 +29,6 @@ class ActivationFreelancerAPIView(APIView):
         try:
             user = User.objects.get(activation_code=activation_code)
             user.is_active = True
-            user.freelancer = True
             user.activation_code = ''
             user.save()
             return Response('Успешно', status=200)
@@ -60,3 +60,6 @@ class ForgotPasswordCompleteAPIView(APIView):
         serializer.is_valid(raise_exception=True)
         serializer.set_new_password()
         return Response('пароль успешно изменён')
+
+# class LoginView(LoginView):
+    
