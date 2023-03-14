@@ -5,27 +5,49 @@ from django.contrib.auth import get_user_model
 
 User = get_user_model()
 
-class RegisterAPIView(APIView):
+class RegisterFreelancerAPIView(APIView):
     
     def post(self, request):
-        serializer = RegisterSerializer(data=request.data)
+        serializer = RegisterFreelancerSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         serializer.save()
 
         return Response('Вы успешно зарегистрировались. Вам отправлено письмо с активацией', status=201)
 
-class ActivationView(APIView):
+class RegisterClientAPIView(APIView):
+    
+    def post(self, request):
+        serializer = RegisterClientSerializer(data=request.data)
+        serializer.is_valid(raise_exception=True)
+        serializer.save()
+
+        return Response('Вы успешно зарегистрировались. Вам отправлено письмо с активацией', status=201)
+
+class ActivationFreelancerAPIView(APIView):
     def get(self, request, activation_code):
         try:
             user = User.objects.get(activation_code=activation_code)
             user.is_active = True
+            user.freelancer = True
             user.activation_code = ''
             user.save()
             return Response('Успешно', status=200)
         except User.DoesNotExist:
             return Response('Link expired', status=400)
-        
-class ForgotPasswordPIView(APIView):
+
+class ActivationClientAPIView(APIView):
+    def get(self, request, activation_code):
+        try:
+            user = User.objects.get(activation_code=activation_code)
+            user.is_active = True
+            user.client = True
+            user.activation_code = ''
+            user.save()
+            return Response('Успешно', status=200)
+        except User.DoesNotExist:
+            return Response('Link expired', status=400)
+
+class ForgotPasswordAPIView(APIView):
     def post(self, request):
         serializer = ForgotPasswordSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
