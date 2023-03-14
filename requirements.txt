@@ -10,3 +10,4 @@ dj-config-url
 django-cors-headers
 redis
 celery
+django-allauth

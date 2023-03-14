@@ -51,7 +51,7 @@ class CustomUser(AbstractUser):
     rating = models.DecimalField(max_digits=4, decimal_places=2, null=True, blank=True) # all
     email = models.EmailField(unique=True) # all
     password = models.CharField(max_length=100) # all
-    username = None
+    # username = None
     activation_code = models.CharField(max_length=50, blank=True)
 
     objects = UserManager()
