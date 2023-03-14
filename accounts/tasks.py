@@ -4,19 +4,10 @@ from django.conf import settings
 import time
 
 @shared_task
-def send_activation_code_freelancer(email, code):
+def send_activation_code_(email, code):
     send_mail(
         'activaion account', # title
         f'http://localhost:8000/account/activate/freelancer/{code}', # body
-        str(settings.EMAIL_HOST_USER), # from
-        [email] # to
-    )
-
-@shared_task
-def send_activation_code_client(email, code):
-    send_mail(
-        'activaion account', # title
-        f'http://localhost:8000/account/activate/client/{code}', # body
         str(settings.EMAIL_HOST_USER), # from
         [email] # to
     )
