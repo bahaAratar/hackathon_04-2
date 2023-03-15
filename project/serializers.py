@@ -1,5 +1,22 @@
 from rest_framework import serializers
-from .models import Category, Project
+from .models import *
+# from rest_framework import serializers
+# from .models import Category, Project
+
+# class CategorySerializer(serializers.ModelSerializer):
+#     class Meta:
+#         model = Category
+#         fields = '__all__'
+
+# class ProjectSerializer(serializers.ModelSerializer):
+#     class Meta:
+#         model = Project
+#         exclude = ('owner',)
+
+#     def create(self, validated_data):
+#         validated_data['owner'] = self.context['request'].user
+#         return super().create(validated_data)
+
 
 
 class CategorySerializer(serializers.ModelSerializer):
@@ -7,12 +24,29 @@ class CategorySerializer(serializers.ModelSerializer):
         model = Category
         fields = '__all__'
 
+
 class ProjectSerializer(serializers.ModelSerializer):
+    # category = CategorySerializer(read_only=True)
+    owner = serializers.PrimaryKeyRelatedField(read_only=True)
+    executor = serializers.PrimaryKeyRelatedField(read_only=True)
+
     class Meta:
         model = Project
-        exclude = ('owner',)
+        exclude = ('candidates',)
 
-    def create(self, validated_data):
-        validated_data['owner'] = self.context['request'].user
-        return super().create(validated_data)
+class ProjectDetailSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Project
+        fields = '__all__'
 
+
+class OrderSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Order
+        fields = '__all__'
+
+
+class RatingSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Rating
+        fields = '__all__'
