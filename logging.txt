@@ -1,0 +1,1239 @@
+Watching for file changes with StatReloader
+"GET /accounts/login/?next=/swagger/ HTTP/1.1" 200 1922
+"GET /favicon.ico HTTP/1.1" 404 2667
+"POST /accounts/login/ HTTP/1.1" 302 0
+"GET /swagger/ HTTP/1.1" 200 2156
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 143858
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1086481
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 324275
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14964
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /swagger/?format=openapi HTTP/1.1" 200 13710
+"GET /accounts/login/?next=/swagger/ HTTP/1.1" 302 0
+"GET /swagger/ HTTP/1.1" 200 2156
+"GET /swagger/?format=openapi HTTP/1.1" 200 13710
+"POST /account/login/ HTTP/1.1" 401 63
+"POST /account/login/ HTTP/1.1" 401 63
+"POST /account/register/ HTTP/1.1" 400 50
+"POST /account/register/ HTTP/1.1" 201 124
+"GET /admin/project/category/ HTTP/1.1" 200 9177
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 796
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2619
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6395
+"GET /static/admin/css/base.css HTTP/1.1" 200 20344
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18854
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+"GET /static/admin/js/core.js HTTP/1.1" 200 5698
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8985
+"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+"GET /static/admin/js/filters.js HTTP/1.1" 200 966
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+"GET /favicon.ico HTTP/1.1" 404 2667
+"GET /admin/accounts/customuser/ HTTP/1.1" 200 9369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/accounts/customuser/3/change/ HTTP/1.1" 200 22560
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8944
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11297
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19379
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /admin/accounts/customuser/3/change/ HTTP/1.1" 200 22560
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/accounts/customuser/3/change/ HTTP/1.1" 302 0
+"GET /admin/accounts/customuser/ HTTP/1.1" 200 9580
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"POST /account/login/ HTTP/1.1" 401 63
+"GET /admin/accounts/customuser/ HTTP/1.1" 200 9369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/accounts/customuser/3/change/ HTTP/1.1" 200 22515
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/accounts/customuser/3/change/ HTTP/1.1" 302 0
+"GET /admin/accounts/customuser/ HTTP/1.1" 200 9580
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/accounts/customuser/3/change/ HTTP/1.1" 200 22523
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /account/login/ HTTP/1.1" 200 483
+"GET /project/projects/1/ HTTP/1.1" 401 183
+"GET /project/projects/1/ HTTP/1.1" 200 260
+"GET /project/projects/1/ HTTP/1.1" 200 260
+"GET /project/projects/2/ HTTP/1.1" 404 23
+"GET /project/projects/1/ HTTP/1.1" 200 260
+"GET /project/orders/ HTTP/1.1" 200 123
+"POST /project/orders/ HTTP/1.1" 201 121
+"POST /project/orders/1/ HTTP/1.1" 405 41
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /project/orders/1/ HTTP/1.1" 405 41
+Internal Server Error: /project/orders/1/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 96, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Order' object has no attribute 'description'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 56, in retrieve
+    return Response(serializer.data)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `description` on serializer `OrderSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Order` instance.
+Original exception text was: 'Order' object has no attribute 'description'.
+Internal Server Error: /project/orders/1/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 96, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Order' object has no attribute 'description'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 56, in retrieve
+    return Response(serializer.data)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `description` on serializer `OrderSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Order` instance.
+Original exception text was: 'Order' object has no attribute 'description'.
+"GET /project/orders/1/ HTTP/1.1" 500 127725
+Internal Server Error: /project/orders/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 96, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Order' object has no attribute 'description'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `description` on serializer `OrderSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Order` instance.
+Original exception text was: 'Order' object has no attribute 'description'.
+Internal Server Error: /project/orders/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 96, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Order' object has no attribute 'description'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `description` on serializer `OrderSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Order` instance.
+Original exception text was: 'Order' object has no attribute 'description'.
+"GET /project/orders/ HTTP/1.1" 500 137905
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /project/orders/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 96, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Order' object has no attribute 'description'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `description` on serializer `OrderSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Order` instance.
+Original exception text was: 'Order' object has no attribute 'description'.
+Internal Server Error: /project/orders/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 96, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Order' object has no attribute 'description'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `description` on serializer `OrderSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Order` instance.
+Original exception text was: 'Order' object has no attribute 'description'.
+"GET /project/orders/ HTTP/1.1" 500 138019
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /project/orders/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 96, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Order' object has no attribute 'description'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `description` on serializer `OrderSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Order` instance.
+Original exception text was: 'Order' object has no attribute 'description'.
+Internal Server Error: /project/orders/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 96, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Order' object has no attribute 'description'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `description` on serializer `OrderSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `Order` instance.
+Original exception text was: 'Order' object has no attribute 'description'.
+"GET /project/orders/ HTTP/1.1" 500 138019
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /project/project/ HTTP/1.1" 404 7413
+"GET /project/projects/ HTTP/1.1" 200 246
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /project/projects/ HTTP/1.1" 401 183
+"POST /account/login/ HTTP/1.1" 200 483
+"GET /project/projects/ HTTP/1.1" 200 246
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /project/projects/apply/ HTTP/1.1" 405 40
+"POST /project/projects/apply/ HTTP/1.1" 405 41
+Internal Server Error: /project/projects/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 226, in put
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+Internal Server Error: /project/projects/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 226, in put
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+"PUT /project/projects/apply/ HTTP/1.1" 500 105030
+Internal Server Error: /project/projects/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 229, in patch
+    return self.partial_update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+Internal Server Error: /project/projects/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 229, in patch
+    return self.partial_update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+"PATCH /project/projects/apply/ HTTP/1.1" 500 109289
+"PATCH /project/projects/apply/1/ HTTP/1.1" 404 7612
+Internal Server Error: /project/projects/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 229, in patch
+    return self.partial_update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+Internal Server Error: /project/projects/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 229, in patch
+    return self.partial_update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+"PATCH /project/projects/apply/ HTTP/1.1" 500 109289
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /project/project/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 229, in patch
+    return self.partial_update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+Internal Server Error: /project/project/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 229, in patch
+    return self.partial_update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+"PATCH /project/project/apply/ HTTP/1.1" 500 109271
+"PATCH /project/project/apply/1/ HTTP/1.1" 404 7608
+"PATCH /project/project/apply/1/ HTTP/1.1" 404 7608
+Internal Server Error: /project/project/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 229, in patch
+    return self.partial_update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+Internal Server Error: /project/project/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 229, in patch
+    return self.partial_update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+"PATCH /project/project/apply/ HTTP/1.1" 500 109271
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /project/project/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 229, in patch
+    return self.partial_update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+Internal Server Error: /project/project/apply/
+Traceback (most recent call last):
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 229, in patch
+    return self.partial_update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+  File "/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view ProjectApplyAPIView to be called with a URL keyword argument named "project_id". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+"PATCH /project/project/apply/ HTTP/1.1" 500 109271
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"PATCH /project/project/apply/1/ HTTP/1.1" 404 7632
+Watching for file changes with StatReloader
+"PATCH /project/project/apply/1/ HTTP/1.1" 400 55
+"POST /account/login/ HTTP/1.1" 200 483
+"PATCH /project/project/apply/1/ HTTP/1.1" 400 55
+"PATCH /project/project/apply/1/ HTTP/1.1" 400 55
+"PATCH /project/project/apply/2/ HTTP/1.1" 404 23
+"PATCH /project/project/apply/1/ HTTP/1.1" 400 55
+"PATCH /project/project/apply/1/ HTTP/1.1" 400 55
+"POST /project/projects/ HTTP/1.1" 401 183
+"POST /project/projects/ HTTP/1.1" 400 59
+"POST /project/projects/ HTTP/1.1" 201 247
+"POST /project/projects/ HTTP/1.1" 201 247
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /project/projects/ HTTP/1.1" 201 247
+"POST /project/projects/ HTTP/1.1" 201 246
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /project/projects/ HTTP/1.1" 201 247
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /project/projects/ HTTP/1.1" 201 247
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /project/projects/ HTTP/1.1" 201 247
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /project/projects/ HTTP/1.1" 201 248
+"PATCH /project/project/apply/9/ HTTP/1.1" 200 24
+"GET /project/projects/ HTTP/1.1" 200 2246
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /project/projects/9/ HTTP/1.1" 200 264
+"PATCH /project/project/apply/9/ HTTP/1.1" 200 24
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"PATCH /project/project/apply/9/ HTTP/1.1" 404 7654
+"PATCH /project/project/9/apply/ HTTP/1.1" 404 7654
+"GET /project/project/9/apply/ HTTP/1.1" 404 7652
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /project/projects/9/apply/ HTTP/1.1" 404 7655
+"GET /project/projects/apply/9/ HTTP/1.1" 405 40
+"PUT /project/projects/apply/9/ HTTP/1.1" 405 40
+"PATCH /project/projects/apply/9/ HTTP/1.1" 405 42
+"POST /project/projects/apply/9/ HTTP/1.1" 200 82
+"POST /account/login/ HTTP/1.1" 200 483
+"POST /project/projects/apply/9/ HTTP/1.1" 200 82
+"POST /project/projects/apply/9/ HTTP/1.1" 200 82
+"POST /project/projects/apply/9/ HTTP/1.1" 200 82
+"POST /project/projects/apply/9/ HTTP/1.1" 200 82
+"GET /admin/accounts/customuser/ HTTP/1.1" 200 9369
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/project/project/ HTTP/1.1" 200 10623
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/project/project/1/change/ HTTP/1.1" 200 16449
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /admin/project/project/ HTTP/1.1" 200 10623
+"GET /admin/project/project/9/change/ HTTP/1.1" 200 16478
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/project/project/ HTTP/1.1" 200 10623
+"GET /admin/project/project/7/change/ HTTP/1.1" 200 16461
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /project/projects/9/ HTTP/1.1" 200 267
+"GET /admin/project/project/ HTTP/1.1" 200 10623
+"GET /admin/project/project/5/change/ HTTP/1.1" 200 16460
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /project/projects/7/ HTTP/1.1" 200 265
+"GET /project/projects/3/ HTTP/1.1" 200 265
+"GET /project/projects/8/ HTTP/1.1" 200 265
+"GET /project/projects/10/ HTTP/1.1" 404 23
+"GET /project/projects/9/ HTTP/1.1" 200 267
+"GET /project/projects/8/ HTTP/1.1" 200 265
+"GET /project/projects/7/ HTTP/1.1" 200 265
+"GET /project/projects/6/ HTTP/1.1" 200 265
+"GET /project/projects/5/ HTTP/1.1" 200 264
+"GET /project/projects/4/ HTTP/1.1" 200 265
+"GET /project/projects/3/ HTTP/1.1" 200 265
+"GET /project/projects/2/ HTTP/1.1" 200 265
+"GET /project/projects/1/ HTTP/1.1" 200 262
+"POST /project/projects/ HTTP/1.1" 201 249
+"POST /project/projects/apply/10/ HTTP/1.1" 200 82
+"GET /project/projects/ HTTP/1.1" 200 2496
+"GET /project/projects/10/ HTTP/1.1" 200 266
+"POST /project/projects/apply/10/ HTTP/1.1" 200 82
+"POST /project/projects/apply/10/ HTTP/1.1" 200 82
+"GET /project/projects/10/ HTTP/1.1" 200 266
+"POST /project/projects/10/ HTTP/1.1" 405 41
+"POST /project/projects/10/ HTTP/1.1" 405 41
+"POST /project/projects/ HTTP/1.1" 201 249
+"POST /project/projects/ HTTP/1.1" 201 249
+"POST /project/projects/apply/12/ HTTP/1.1" 200 82
+"GET /project/projects/ HTTP/1.1" 200 2996
+"GET /project/projects/10/ HTTP/1.1" 200 266
+"GET /project/projects/11/ HTTP/1.1" 200 265
+"GET /project/projects/12/ HTTP/1.1" 200 266
+"GET /project/projects/13/ HTTP/1.1" 404 23
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /project/projects/13/ HTTP/1.1" 401 183
+"POST /account/login/ HTTP/1.1" 200 483
+"POST /project/projects/ HTTP/1.1" 401 183
+"GET /project/projects/13/ HTTP/1.1" 404 23
+"GET /project/projects/12/ HTTP/1.1" 200 266
+"GET /project/projects/12/apply/ HTTP/1.1" 405 40
+"POST /project/projects/12/apply/ HTTP/1.1" 200 82
+"GET /project/projects/ HTTP/1.1" 401 183
+"GET /project/projects/ HTTP/1.1" 200 2996
+"GET /project/projects/12 HTTP/1.1" 301 0
+"GET /project/projects/12/ HTTP/1.1" 200 266
+"POST /project/projects/12/apply/ HTTP/1.1" 200 82
+"GET /project/projects/12 HTTP/1.1" 301 0
+"GET /project/projects/12/ HTTP/1.1" 200 266
+"POST /account/login/ HTTP/1.1" 200 483
+"GET /project/projects/12/ HTTP/1.1" 200 266
+"POST /project/projects/12/apply/ HTTP/1.1" 200 82
+"GET /project/projects/12/ HTTP/1.1" 200 268
+"POST /project/projects/12/choose_executor/ HTTP/1.1" 405 41
+"GET /project/projects/12/choose_executor/ HTTP/1.1" 405 40
+"PATCH /project/projects/12/choose_executor/ HTTP/1.1" 400 37
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+"PATCH /project/projects/12/choose_executor/ HTTP/1.1" 400 46
+"PATCH /project/projects/12/choose_executor/ HTTP/1.1" 400 46
+"PATCH /project/projects/12/choose_executor/ HTTP/1.1" 400 75
+"PATCH /project/projects/12/choose_executor/ HTTP/1.1" 200 247
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/samat/Desktop/py25/django/fhackaton/hackathon_04-2/project/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"PATCH /project/projects/12/choose_executor/ HTTP/1.1" 200 246
+"PATCH /project/projects/12/choose_executor/ HTTP/1.1" 200 246
+"PATCH /project/projects/12/choose_executor/ HTTP/1.1" 200 246
+"GET /admin/accounts/customuser/ HTTP/1.1" 200 9369
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+"GET /admin/accounts/customuser/3/change/ HTTP/1.1" 200 22443
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+"GET /admin/accounts/customuser/ HTTP/1.1" 200 9369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/accounts/customuser/2/change/ HTTP/1.1" 200 22525
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/project/project/ HTTP/1.1" 200 11265
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/project/project/12/change/ HTTP/1.1" 200 16489
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/project/project/ HTTP/1.1" 200 11265
+"GET /admin/project/project/11/change/ HTTP/1.1" 200 16462
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/project/project/ HTTP/1.1" 200 11265
+"GET /admin/project/project/10/change/ HTTP/1.1" 200 16471
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /project/projects/10/ HTTP/1.1" 200 266
+"GET /admin/accounts/customuser/ HTTP/1.1" 200 9369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/accounts/customuser/3/change/ HTTP/1.1" 200 22443
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /account/login/ HTTP/1.1" 200 483
+"PATCH /project/projects/10/choose_executor/ HTTP/1.1" 403 105
+"POST /account/login/ HTTP/1.1" 200 483
+"PATCH /project/projects/10/choose_executor/ HTTP/1.1" 200 246
+Watching for file changes with StatReloader
