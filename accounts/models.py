@@ -52,7 +52,7 @@ class CustomUser(AbstractUser):
     REQUIRED_FIELDS = []
 
     def __str__(self):
-        return f'{self.first_name} {self.first_name}'
+        return f'{self.first_name} {self.last_name}'
     
     def create_activation_code(self):
         import uuid

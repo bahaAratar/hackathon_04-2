@@ -47,13 +47,13 @@ INSTALLED_APPS = [
     'corsheaders',
     'drf_yasg',
 
-    'accounts',
-
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
     'allauth.socialaccount.providers.github',
+    'accounts',
     'project',
+    'ratting',
 ]
 
 MIDDLEWARE = [
